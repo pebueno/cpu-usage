@@ -1,0 +1,26 @@
+{
+  "name": "cpu-usage",
+  "version": "1.0.0",
+  "description": "Node.js program to demonstrate cpu usage and create metrics",
+  "main": "app.js",
+  "scripts": {
+    "start" : "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pebueno/cpu-usage.git"
+  },
+  "keywords": [
+    "cpu",
+    "usage",
+    "node.js",
+    "javascript"
+  ],
+  "author": "Pedro Ivo Bueno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pebueno/cpu-usage/issues"
+  },
+  "homepage": "https://github.com/pebueno/cpu-usage#readme"
+}
